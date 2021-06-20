@@ -46,9 +46,9 @@
 
 [Polkadot address prefixes](https://wiki.polkadot.network/docs/en/build-protocol-info#addresses)
 
-Polkadot: 0
-Kusama: 2
-Westend: 42
+* Polkadot: 0
+* Kusama: 2
+* Westend: 42
 
 
 Done
