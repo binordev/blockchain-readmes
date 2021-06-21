@@ -1,5 +1,11 @@
 ## Getting started with Lisk
 
+### Resources
+
+* https://hackonlisk.devpost.com/resources
+
+## Testing Lisk
+
 I am testing out Lisk on WSL2 on Windows. The chain nodes does not currently run on Windows, which is why I use WSL2.  
 
 First I got [the quick start running](https://github.com/binordev/lsk-qstart1). It only runs a chain node.  
