@@ -25,4 +25,6 @@ The link also gives you the links to the urls to the existing nets services:
 
 and their [swagger pages](https://lisk.com/documentation/lisk-service/references/api.html), that enables you to test.
 
+Alternatively there is a react lib also for creating frontends: [lisk-react](https://github.com/endrohq/lisk-react) by [@Tom - endro.io#4052](https://discord.com/channels/405002561775599619/606112254789681163/856498515366117376).
+
 Done
