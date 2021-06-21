@@ -9,9 +9,9 @@ With both running remote in WSL2 you [can't open the browser inside WSL - instea
 
 ## Output from running the hello-world frontend
 
-Here is some output gotten fromn the hello-world app:
+Here is some output gotten from the hello-world app running in WSL on http://localhost:8989
 
-http://localhost:8989
+```text
 ---- New account A
 {
   "address": "lskgfgn9t935y476bzmh84u66qqsyykg3wbee2rj3",
@@ -193,6 +193,6 @@ binor says hello4
 Sender:
 
 ffbe76cda85c52e51805ebd3052ab5dc634fa2e6
-
+```
 
 Done
