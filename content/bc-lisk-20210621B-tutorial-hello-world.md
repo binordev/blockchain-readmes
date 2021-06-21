@@ -7,9 +7,15 @@ The [hello-world tutorial](https://github.com/LiskHQ/lisk-sdk-examples/tree/deve
 The link above tells you howto start them.  
 With both running remote in WSL2 you [can't open the browser inside WSL - instead you manual open the browser from Windows](https://dev.lisk.com/t/running-lisk-projects-on-wsl2-on-windows/512).
 
+## The code
+
+The code covers [basic transactions in Lisk](https://lisk.com/documentation/lisk-sdk/guides/app-development/frontend.html#create-basic-components).  
+
 ## Output from running the hello-world frontend
 
-Here is some output gotten from the hello-world app running in WSL on http://localhost:8989
+You can see [screen-shots from the app here](https://lisk.com/documentation/lisk-sdk/tutorials/hello-world.html#the-hello-world-app).  
+
+And here is some output I've gotten from the hello-world app running in WSL on http://localhost:8989
 
 ```text
 ---- New account A
